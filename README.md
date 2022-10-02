@@ -18,5 +18,5 @@ In some puzzles you only need to provide the value that will be sent to the cont
 
 You can use [`evm.codes`](https://www.evm.codes/)'s reference and playground to work through this.
 
-Here are my [solutions/hints]()
+Here are my [solutions/hints](https://github.com/0xNazgul/More-EVM-Puzzles/blob/main/MorePuzzleSolutions.md)
 
